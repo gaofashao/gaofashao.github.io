@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.milu.cf/categories/index.html</loc>
+    
+    <lastmod>2020-02-21T20:39:20.582Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.milu.cf/about/index.html</loc>
+    
+    <lastmod>2020-02-21T20:39:01.586Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.milu.cf/archives/index.html</loc>
+    
+    <lastmod>2020-02-21T20:38:37.439Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.milu.cf/friends/index.html</loc>
+    
+    <lastmod>2020-02-21T20:37:47.055Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.milu.cf/tags/index.html</loc>
+    
+    <lastmod>2020-02-21T20:37:21.012Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.milu.cf/contact/index.html</loc>
+    
+    <lastmod>2020-02-21T20:36:54.532Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.milu.cf/2018/01/22/2017-conclusion/</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
@@ -10,48 +52,6 @@
   
   <url>
     <loc>https://blog.milu.cf/404.html</loc>
-    
-    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.milu.cf/about/index.html</loc>
-    
-    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.milu.cf/categories/index.html</loc>
-    
-    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.milu.cf/archives/index.html</loc>
-    
-    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.milu.cf/contact/index.html</loc>
-    
-    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.milu.cf/friends/index.html</loc>
-    
-    <lastmod>2019-09-26T05:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.milu.cf/tags/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
